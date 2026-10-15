@@ -56,11 +56,8 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 
 ### @169pi — the first brick 🧱
 
-This wall is yours to build on. Fork the repo, add your entry right here, and
-open a PR — see **[CONTRIBUTING.md](../CONTRIBUTING.md)** for the 5-step guide.
-
-*What it represents:* the open, collaborative spirit behind everything at 169pi.
-**Contributed by [@169pi](https://github.com/169Pi)**
+/mnt/data/a_clean_flat_vector_illustration_badge_poster_in_a.png
+**Contributed by [@169pi](https://ankitashantannacs25-afk)**
 
 <!-- ENTRIES:END -->
 
